@@ -18,7 +18,9 @@ An attacker can **pre-register** a victim's email address before the victim ever
 | Blockchain.com | P2 | Pending (#a7a32471) |
 
 ## Installation
-
+```bash
+Download the file
+```
 ```bash
 pip3 install requests beautifulsoup4 --break-system-packages
 ```
